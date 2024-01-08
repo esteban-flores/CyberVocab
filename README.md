@@ -78,3 +78,56 @@
 
 <b>Cryptography:</b> The science and practice of securing communication and information through the use of codes and ciphers. The goal is to ensure confidentiality, integrity, authenticity, and non-repudiation of data in various communication and storage systems.
 
+## D
+
+<b>Data Integrity:</b> Information remains accurate and unchanged, preventing errors or unauthorized modifications. Checksums and validation processes are used to maintain the reliability of data in storage and data in transit.
+
+<b>Data Loss Prevention (DLP):</b> System capabilities designed to detect and prevent the unauthorized use and transmission of information.
+
+<b>Decryption:</b> Reversed form of encryption. Converting an encrypted “coded message” back into plaintext. Only the person with the correct key can decrypt the message. Deciphering is used interchangeably with decryption.
+
+<b>De-encapsulation:</b> The opposite process of encapsulation. Collections of data are unpacked.
+
+<b>Defense in Depth:</b> Strategy that uses a combination of technical, procedural, and organizational controls to create barriers at each layer. The aim is to create a more resilient defense against potential risks.
+
+<b>Degaussing:</b> A technique of giving a device a magnetic reset. It erases or reduces the magnetic remanence so that no data is left behind or can be restored. Data can be on disk, tape, and video tapes.
+
+<b>Denial-of-Service (DoS):</b> Prevention of any access to resources whether authorized or not. The prevention can come in a way of slowing down access as well. Imagine a system being offline when it should be online or a website loading extremely slow or not at all.
+
+<b>Digital Signature:</b> A virtual stamp that shows a document or message has not been altered, is in its original state, and is from a specific person.When implemented, it can ensure authentication, data integrity, and non-repudiation.
+
+<b>Disaster Recovery (DR):</b> Involves strategies and backups in place to quickly get things back to normal, such as restoring important data and making sure systems can keep running. A disaster is when an organization’s critical business functions cannot be performed at an acceptable level within a predetermined period following a disruption.
+
+<b>Disaster Recovery Plan (DRP):</b> The backup plan for when something bad happens. The processes, policies and procedures related to preparing for recovery or continuation of critical business functions and infrastructure systems. Goal is to make sure that systems can keep running in times of emergency.
+
+<b>Discretionary Access Control (DAC):</b> Security model that allows an owner or authorized users to 
+decide who can access specific files, folders, or data based on user discretion, granting or restricting permissions as needed. It provides a decentralized approach to access management, giving users a level of autonomy over their own resources within a computer system.
+
+<b>Domain Name Service (DNS):</b> Is the phone book for the internet. DNS translates domain names into IP addresses. It is a crucial system applied to a service, a physical server and a network protocol. Using those three, the way we navigate the internet is simplified. www.google.com could translate to  8.8.8.8. You remember google.com much easier than 8.8.8.8
+
+<!--
+## E
+## F
+## G
+## H
+## I
+## J
+## K
+## L
+## M
+## N
+## O
+## P
+## Q
+## R
+## S
+## T
+## U
+## V
+## W
+## X
+## Y
+## Z
+-->
+
+# If you made it to the end...Congratulations! Now, take a look at the Common Cybersecurity Concepts
