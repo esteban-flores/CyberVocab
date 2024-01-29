@@ -105,8 +105,27 @@ decide who can access specific files, folders, or data based on user discretion,
 
 <b>Domain Name Service (DNS):</b> Is the phone book for the internet. DNS translates domain names into IP addresses. It is a crucial system applied to a service, a physical server and a network protocol. Using those three, the way we navigate the internet is simplified. www.google.com could translate to  8.8.8.8. You remember google.com much easier than 8.8.8.8
 
-<!--
 ## E
+
+<b>Egress Monitoring:</b> Includes the monitoring and analyzing the outgoing network traffic from an organization's internal network to external destinations. The purpose of the monitoring is to identify and investigate suspicious or anomalous patterns in outbound network traffic. It helps in preventing data breaches, intellectual property theft, or any unauthorized communication with malicious entities outside the network. Monitoring uses security tools, such as firewalls, intrusion detection systems, and data loss prevention (DLP) solutions.
+
+<b>Encapsulation:</b> In cybersecurity, encapsulation is very important. In the OSI and TCP/IP model the packet structure ensures that data is organized into a standardized format, including headers and trailers. The structure helps routers, switches, and other network devices understand and process the information. Security protocols use encapsulation to protect data during transmission. For example, in VPNs (Virtual Private Networks), data is encapsulated within a secure tunnel, adding an extra layer of protection. In the layered security approach, different layers of the network stack handle specific aspects of communication, allowing for modular design and flexibility in security implementations.Some processes include mechanisms for verifying the integrity of the encapsulated data. This ensures that the data remains unchanged during transit.
+
+<b>Encrypt:</b> The conversion of data from a readable format to an unreadable format. It could only be ready by someone authorized.
+
+<b>Encryption:</b> The process and act of converting the message from its plaintext to ciphertext. 
+Fundamental technique that uses cryptographic keys and algorithms to ensure the confidentiality of data.The primary goal of encryption is to protect data from unauthorized access or interception by making it unintelligible to anyone without the appropriate decryption key. Examples of data that needs encrypting are personal data, financial transactions, and classified communications.
+
+<b>Encryption System:</b> Crucial for safeguarding sensitive information in various applications. The system is a combination of algorithms, processes, hardware, software, and procedures that provide encryption and decryption. Common encryption algorithms include Advanced Encryption Standard (AES), Triple DES (3DES), and RSA. Effective encryption systems require secure key management practices. This involves the generation, distribution, storage, and rotation of cryptographic keys used in the encryption and decryption processes.
+
+<b>Event:</b> Any observable occurrence in a network or system. They encompass a wide range of activities, such as user logins, system processes, network connections, or changes in configuration. Events play a crucial role in monitoring and incident response, allowing security professionals to detect, investigate, and respond to potential security incidents in real-time.
+
+<b>Exploit:</b> An exploit refers to a piece of software, code, or technique that takes advantage of a vulnerability or weakness in a computer system, software application, or network to compromise its security. Exploits are typically used by attackers to gain unauthorized access, execute malicious code, or perform other actions that can lead to the compromise of a system's confidentiality, integrity, or availability.
+
+
+
+
+<!--
 ## F
 ## G
 ## H
