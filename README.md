@@ -122,11 +122,14 @@ Fundamental technique that uses cryptographic keys and algorithms to ensure the 
 
 <b>Exploit:</b> An exploit refers to a piece of software, code, or technique that takes advantage of a vulnerability or weakness in a computer system, software application, or network to compromise its security. Exploits are typically used by attackers to gain unauthorized access, execute malicious code, or perform other actions that can lead to the compromise of a system's confidentiality, integrity, or availability.
 
+## F
+<b>File Transfer Protocol (FTP):</b> Fundamental network protocol used to transfer files between a client and a server. FTP operates on a client-server model, where one computer acts as the server, hosting files, and another computer (or multiple computers) acts as the client, requesting and transferring files. It operates in two modes - the command mode for sending commands from the client to the server and the data transfer mode for actual file transfers. FTP supports various methods of authentication, including username and password. However, FTP by itself does not encrypt authentication information, making it vulnerable to security risks. Secure variants like FTPS (FTP Secure) and SFTP (SSH File Transfer Protocol) address these security concerns. FTP uses a command port, port 21 for sending commands and a data port for transferring files. Some FTP servers allow anonymous access, where users can log in with the username "anonymous" and use their email address as the password to access publicly available files.
 
+<b>Fragment attack:</b> A fragment attack is a type of network-layer attack that involves manipulating or exploiting the fragmentation mechanism in network protocols. The goal of a fragment attack is to evade detection, inspection, or filtering mechanisms by dividing malicious payloads into smaller fragments during transmission making it harder for security mechanisms to analyze the entire content in one inspection. This can involve altering the order of fragments, overlapping them, or inserting malicious payloads in specific fragments. Mitigating fragment attacks involves implementing security measures that can handle and inspect fragmented packets effectively. This may include configuring firewalls and intrusion detection/prevention systems to properly handle fragment reassembly, and ensuring that the network infrastructure is resilient against manipulation of packet fragments.
 
 
 <!--
-## F
+
 ## G
 ## H
 ## I
