@@ -127,10 +127,16 @@ Fundamental technique that uses cryptographic keys and algorithms to ensure the 
 
 <b>Fragment attack:</b> A fragment attack is a type of network-layer attack that involves manipulating or exploiting the fragmentation mechanism in network protocols. The goal of a fragment attack is to evade detection, inspection, or filtering mechanisms by dividing malicious payloads into smaller fragments during transmission making it harder for security mechanisms to analyze the entire content in one inspection. This can involve altering the order of fragments, overlapping them, or inserting malicious payloads in specific fragments. Mitigating fragment attacks involves implementing security measures that can handle and inspect fragmented packets effectively. This may include configuring firewalls and intrusion detection/prevention systems to properly handle fragment reassembly, and ensuring that the network infrastructure is resilient against manipulation of packet fragments.
 
+## G
+
+<b>General Data Protection Regulation (GDPR):</b> A comprehensive data protection and privacy regulation that was implemented by the European Union (EU). It strengthens and unifies data protection for individuals within the EU and the European Economic Area (EEA). It also addresses the export of personal data outside the EU and EEA. By design, privacy is by default. It was deemed an individual human right. These rights include the right to access, rectify, erase, and restrict the processing of their data. Organizations must have a lawful basis for processing personal data. Organizations are obligated to report certain types of data breaches to authorities and individuals. The GDPR imposes substantial fines for non-compliance.
+
+<b>Governance:</b> In cybersecurity, governance plays a crucial role in establishing policies, procedures, and controls to safeguard information assets. Policies cover areas such as data protection, access controls, incident response, and compliance. There are frameworks that include risk management processes to ensure that potential threats are proactively addressed to protect the organization's assets. Compliance ensures the company abides by relevant laws, regulations, and industry standards. This includes data protection regulations, such as GDPR, and industry-specific standards like ISO 27001 for information security. Effective cybersecurity governance ensures that an organization's security efforts are well-coordinated, aligned with business objectives, and capable of adapting to evolving threats and technologies.
+
 
 <!--
 
-## G
+
 ## H
 ## I
 ## J
