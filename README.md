@@ -133,11 +133,25 @@ Fundamental technique that uses cryptographic keys and algorithms to ensure the 
 
 <b>Governance:</b> In cybersecurity, governance plays a crucial role in establishing policies, procedures, and controls to safeguard information assets. Policies cover areas such as data protection, access controls, incident response, and compliance. There are frameworks that include risk management processes to ensure that potential threats are proactively addressed to protect the organization's assets. Compliance ensures the company abides by relevant laws, regulations, and industry standards. This includes data protection regulations, such as GDPR, and industry-specific standards like ISO 27001 for information security. Effective cybersecurity governance ensures that an organization's security efforts are well-coordinated, aligned with business objectives, and capable of adapting to evolving threats and technologies.
 
+## H
+
+<b>Hardening:</b>  In cybersecurity, hardening refers to securing the system, network, hardware, and software by reducing its vulnerabilities to reduce the attack surface. The goal is to make it as challenging as possible for attackers to compromise the confidentiality, integrity and availability of the system(s). Hardening is an ongoing process that requires review and adjustment to follow industry guidelines (Center for Internet Security). In configuration management, the settings are changed to eliminate unnecessary services, close unused ports, and install patches to apply best security patches. Access control is critical for hardening and the principle of least privilege is used to restrict user permissions. Physical security is also a concern so restricting access to sensitive areas such as server rooms, data centers, is just as important as preventative measures such as surveillance systems and physical locks on equipment. Regular security audits and vulnerability assessments can identify and remediate weaknesses.
+
+<b>Hardware:</b> Physical components of devices and information technology systems. These components include electronic circuits, processors, memory modules, storage devices, networking equipment, and other tangible elements that make up a computer system. Hardware plays a critical role in the overall security. Vulnerabilities at the hardware level can have significant consequences for data confidentiality, integrity, and system functionality.
+
+<b>Hash Function:</b> A hash function is a mathematical function that takes an input and produces a fixed-size hash value (digest). The primary purpose is to generate a unique hash for each unique input. Changes to the data will result in a different hash value. A hash function will always produce the same output. This is crucial for consistency and reliability. Storing passwords in hashed form rather than plaintext enhances security by preventing the exposure of user passwords even when the hash values are compromised. Common hash lengths include 128-bit, 256-bit, or 512-bit hashes.
+
+<b>Hashing:</b> The process of using a mathematical algorithm against data to produce a value that is representative of that data. It helps ensure data integrity, security, and efficiency. Calculating the hash of data before and after transmission or storage, one can compare the two hash values. If they match, the data is likely unchanged. If they don’t match, there may have been a change. Common hash functions include MD5 (Message Digest 5), SHA-1 (Secure Hash Algorithm 1), SHA-256, and SHA-3. SHA-256 and SHA-3 are more commonly used for secure applications.
+
+<b>Health Insurance Portability and Accountability Act (HIPAA):</b> U.S. federal law that is the most important healthcare information regulation established in 1996. HIPAA consists of several components, with the two main rules being the Privacy Rule and the Security Rule. The Privacy Rule establishes national standards for protecting individuals' medical records and other personal health information. It grants patients the right to specify how their data can be used and disclosed. The Security Rule sets standards for the security of electronic protected health information (ePHI). It is mandated that a Security Officer is appointed along with administrative, physical, and technical safeguards to ensure the confidentiality, integrity, and availability of ePHI. Failure to comply with HIPAA can result in severe penalties, including fines and legal consequences.
+
+<b>Hybrid cloud:</b> A computing environment that combines elements of both public and private clouds. In a hybrid cloud model, organizations can leverage the benefits of both on-premises infrastructure (private cloud) and resources provided by external cloud service providers (public cloud). This approach provides flexibility, scalability, and the ability to optimize infrastructure based on specific needs and requirements. This often involves using virtual private networks (VPNs), dedicated connections, or hybrid cloud management platforms. Organizations can optimize costs by leveraging public cloud resources for temporary workloads while maintaining essential functions on private infrastructure. The architecture provides organizations with robust disaster recovery and business continuity options.
+
+
+
+
 
 <!--
-
-
-## H
 ## I
 ## J
 ## K
