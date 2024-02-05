@@ -147,12 +147,44 @@ Fundamental technique that uses cryptographic keys and algorithms to ensure the 
 
 <b>Hybrid cloud:</b> A computing environment that combines elements of both public and private clouds. In a hybrid cloud model, organizations can leverage the benefits of both on-premises infrastructure (private cloud) and resources provided by external cloud service providers (public cloud). This approach provides flexibility, scalability, and the ability to optimize infrastructure based on specific needs and requirements. This often involves using virtual private networks (VPNs), dedicated connections, or hybrid cloud management platforms. Organizations can optimize costs by leveraging public cloud resources for temporary workloads while maintaining essential functions on private infrastructure. The architecture provides organizations with robust disaster recovery and business continuity options.
 
+## I
+<b>Incident:</b> An event that has potential to compromise the confidentiality, integrity or availability of an organization’s system. Incidents can range from minor breaches to major events that require an appropriate response to mitigate damage. There are several types of incidents such as: security breaches, malware infections, denial-of-service attacks, insider threats, and phishing attacks. 
+
+<b>Incident Handling:</b> Proper handling of events is essential for maintaining security and trustworthiness of an organization. Mitigations are guided by security policies and recommended practices. Organizations have procedures for reporting promptly to stakeholders, regulatory authorities, law enforcement, and customers. Timely and transparent communication is essential following an incident.
+
+<b>Incident Response (IR):</b> The structured approach to managing and mitigating security incidents or breaches. The goal is to detect, contain, eradicate, recover from, and learn from incidents and breaches to protect and reduce damage. Effective incident response is key for reducing the impact of incidents and maintaining resilience of the organization's security posture.
+
+<b>Incident Response Plan (IRP):</b> A structured and organized approach that outlines the procedures that should be followed when responding and managing an incident. The plan needs to describe the purpose and scope. The roles of the response team are defined, the incident is classified, the response procedures are detailed, and the communication procedures are outlined. Regular testing and updating the plan helps ensure its effectiveness. A well defined and tested incident response plan is critical for a robust cybersecurity strategy. 
+
+<b>Ingress Monitoring:</b> Is the practice of actively monitoring and analyzing incoming network traffic.
+The goal is to identify and respond to potential security threats or anomalies. 
+Monitoring of incoming network traffic. The monitoring is important for a layered security strategy that allows organizations to proactively identify and respond to threats before they cause harm. 
+
+<b>Infrastructure as a Service (IaaS):</b>Cloud computing model that allows organizations to outsource their infrastructure needs. It provides virtualized resources over the internet. A 3rd party service delivers infrastructure to users. The resources can be managed on a pay-as-you-go basis allowing them to customize their service to scale and be more flexible. IaaS is popular in the data center where software and servers are purchased as a fully outsourced service. Popular providers of IaaS are Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and IBM Cloud
+
+<b>Impact:</b> The impact refers to the potential harm that may result from a security incident. It assesses the severity of the incident on confidentiality, integrity and availability.
+
+<b>Information Security Risk:</b> The potential harm that may be caused by vulnerabilities and threats to an organization’s systems. The risk also includes the likelihood of vulnerabilities being exploited.
+
+<b>Institute of Electrical and Electronics Engineers:</b> IEEE is a global professional organization that is the leading authority in electrical engineering, electronics, computer science, telecommunications, and related fields. They help develop and publish industry standards and provide a platform for professionals to share knowledge.
+
+<b>Integrity:</b> Integrity means that data has stayed the same as when it was created. Checksums can be used to verify the completeness, accuracy, and consistency of the data. Changes to the data will result in a different checksum.
+
+<b>International Organization of Standards (ISO):</b> Non-governmental international standard setting organization that develops and publishes voluntary international standards. The ISO covers a wide range of industries and provides specifications for products, services, and systems to ensure quality, safety, and efficiency.
+
+<b>Internet Engineering Task Force (IETF):</b> A large open international community, made up of network designers, operators, vendors and researchers, that defines protocol standards (e.g., IP, TCP, DNS) through a process of collaboration and consensus. Its work is foundational to the growth of the modern internet.
+
+<b>Internet Control Message Protocol (ICMP):</b> Is a network layer protocol that is a critical part for the Internet Protocol. It is used to send operational information and error messages about a network condition. It’s mostly used for diagnostics and troubleshooting. Standardized by the Internet Engineering Task Force (IETF) through RFC 792.
+
+<b>Internet Protocol (IPv4):</b> The most widely used version of Internet Protocol. The standard for the transmission of data from source to destination in a network. It utilizes a 32 bit addressing scheme. There can be nearly 4.3 billion unique addresses. The addresses are represented as 4 sets of decimal numbers with dots as the separators. Eg: 192.168.1.0
+
+<b>Intrusion:</b> A security event(s) where a threat actor was successful in gaining unauthorized access to computer systems, networks, or physical locations. Intrusions can take many forms such as malware attacks, phishing, and advanced persistent threats (APTs).
 
 
 
 
 <!--
-## I
+
 ## J
 ## K
 ## L
