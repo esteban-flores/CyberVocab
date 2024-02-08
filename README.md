@@ -180,14 +180,29 @@ Monitoring of incoming network traffic. The monitoring is important for a layere
 
 <b>Intrusion:</b> A security event(s) where a threat actor was successful in gaining unauthorized access to computer systems, networks, or physical locations. Intrusions can take many forms such as malware attacks, phishing, and advanced persistent threats (APTs).
 
+## J
 
+### Will add words
+
+## K
+
+### Will add words
+
+## L
+<b>Likelihood:</b> The probability that an event, outcome, vulnerability will happen or be exploited. 
+
+<b>Likelihood of Occurrence:</b> It is a measure of the probability that a particular occurrence will happen within a given time frame or under specific conditions. The likelihood is used to determine the level of risk associated with vulnerabilities.
+
+<b>Linux:</b> An open-source, Unix-like operating system that serves as the core of various operating systems. It is open source, meaning that anyone can view, modify, and distribute the code base. A large community is available to support and have helped with the adoption. Developed in 1991 by Linus Torvalds.
+
+<b>Logging:</b> refers to the process of recording events and activities about operations, applications, networks, and security in a systematic manner. Logs provide a chronological record that is valuable for monitoring, troubleshooting, and auditing purposes. Logging managed correctly helps with efficiency, security and compliance within organizations. Some of the common tools are Syslog, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, and Graylog.
+
+<b>Log Anomaly:</b> A log anomaly refers to an unusual pattern/behavior that is detected in log data. Anomalies may indicate potential security threats or malfunctions. They require additional investigation to reveal any underlying risks. There are different types of anomalies such as: unusual access patterns, abnormal network traffic, application errors, system resource usage, security incidents.
+
+<b>Logical Access Control Systems:</b> Security measures designed to restrict digital access to data, systems, and networks. Only authorized individuals have access to the systems and sensitive information. A logical access control system requires the validation of identity by using a PIN, card, or biometric token. The implementation of the control systems is critical for maintaining data security and compliance. 
 
 
 <!--
-
-## J
-## K
-## L
 ## M
 ## N
 ## O
