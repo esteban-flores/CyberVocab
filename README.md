@@ -201,9 +201,21 @@ Monitoring of incoming network traffic. The monitoring is important for a layere
 
 <b>Logical Access Control Systems:</b> Security measures designed to restrict digital access to data, systems, and networks. Only authorized individuals have access to the systems and sensitive information. A logical access control system requires the validation of identity by using a PIN, card, or biometric token. The implementation of the control systems is critical for maintaining data security and compliance. 
 
+## M
+<b>Multi-Factor Authentication (MFA):</b> A security mechanism that is a vital component of a comprehensive security strategy. It is an effective defense against unauthorized access that adds an extra layer of security on top of an authentication that requires a username and password. It uses two or more distinct factors of authentication for identity verification. The factors could be, something you know, something you have, something you are, somewhere you are, something you do. As threats continue to evolve, MFA continues to help mitigate risks with compromised credentials.
+
+<b>Mandatory Access Control (MAC):</b> Security model that restricts access to system resources based on security policies and classifications. MAC is enforced by the operating system and sets access controls that users cannot override because of the strict hierarchy of access privileges. When the protection of sensitive and classified information is important, MAC is a great choice. 
+
+<b>Mantrap:</b> A physical security control that restricts unauthorized access to a secure area. It requires people to pass through two doors with only one door open at a time. Tailgating is the primary threat that is prevented which is why it is used in data centers, secure facilities, or areas with sensitive information. The mantrap uses two interlocking doors, integration with building security systems, access control system integration, sensors, timeout and lockdown, and security personnel.
+
+<b>Message Digest:</b> Fundamental for security that provides a way to verify data integrity, securely store passwords, and support various cryptographic applications. A message digest is a hash, a digital signature, that uniquely identifies data and a change in any way, creates a completely distinct hash.
+
+<b>Man-in-the-Middle (MITM):</b> An attack where an unauthorized third party inserts themself in the communication between two parties without their knowledge or consent. Once the attacker has access, they can eavesdrop on the communication, alter data in transit, and impersonate either party. Man-in-the-middle attacks are also sometimes referred to as On-path attacks. They are a significant threat to confidentiality, integrity, and authenticity. Mitigating the risk of MITM attacks, can be done with implementing a combination of technical safeguards, secure practices, and user education.
+
+<b>Microsegmentation:</b> Security strategy that divides an organization's network into very small and highly localized zones. The division of the network helps make lateral movement in a security breach very difficult because each zone does not allow connection to other zones because they are isolated. It is part of a least privilege and a zero trust strategy that can implement a firewall at every connection point.
 
 <!--
-## M
+
 ## N
 ## O
 ## P
