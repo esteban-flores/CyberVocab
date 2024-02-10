@@ -214,9 +214,12 @@ Monitoring of incoming network traffic. The monitoring is important for a layere
 
 <b>Microsegmentation:</b> Security strategy that divides an organization's network into very small and highly localized zones. The division of the network helps make lateral movement in a security breach very difficult because each zone does not allow connection to other zones because they are isolated. It is part of a least privilege and a zero trust strategy that can implement a firewall at every connection point.
 
-<!--
-
 ## N
+<b>National Institutes of Standards and Technology (NIST):</b> Is a United States government agency that is responsible for developing and promoting measurement standards, advancing technology, and enhancing economic competitiveness. The standards have a broad impact, influencing industries, regulatory frameworks, and information security within the Computer Security Resource Center of the Computer Security Divisions. 
+
+<b>Non-repudiation:</b> A concept in information security that ensures that a party cannot deny the authenticity or integrity of communications. The implementation relies on cryptographic techniques, secure key management, and adherence to regular requirements. In short, someone cannot say that they did not send something because there is a digital signature. Organizations implement non-repudiation where accountability and integrity are required. The key components are digital signatures, public key infrastructure, timestamps, audit trails, and biometrics.
+
+<!--
 ## O
 ## P
 ## Q
