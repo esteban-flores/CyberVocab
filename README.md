@@ -219,8 +219,14 @@ Monitoring of incoming network traffic. The monitoring is important for a layere
 
 <b>Non-repudiation:</b> A concept in information security that ensures that a party cannot deny the authenticity or integrity of communications. The implementation relies on cryptographic techniques, secure key management, and adherence to regular requirements. In short, someone cannot say that they did not send something because there is a digital signature. Organizations implement non-repudiation where accountability and integrity are required. The key components are digital signatures, public key infrastructure, timestamps, audit trails, and biometrics.
 
-<!--
 ## O
+<b>Object:</b> An object is many things depending on the context. In cybersecurity,  it is things like devices, files, records, tables, processes, programs, apps, and domains. If you have access to an object that means that you have access to the information contained inside.
+
+<b>Operating System (OS):</b> The software that runs the device after it powers on. After the bios loads, the operating system is the first program loaded. The kernel is the main part of the OS that is in memory at all times. The operating system controls all of the other programs (such as the Web server) that run in the computer. 
+
+<b>Oversized Packet Attack:</b> In network security, oversized packets are associated with various issues, vulnerabilities, or attacks. A network packet that is larger than expected is sent and cannot be handled by the receiving system and it fails because of it.
+
+<!--
 ## P
 ## Q
 ## R
