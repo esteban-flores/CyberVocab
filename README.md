@@ -226,9 +226,36 @@ Monitoring of incoming network traffic. The monitoring is important for a layere
 
 <b>Oversized Packet Attack:</b> In network security, oversized packets are associated with various issues, vulnerabilities, or attacks. A network packet that is larger than expected is sent and cannot be handled by the receiving system and it fails because of it.
 
-<!--
 ## P
+<b>Personally Identifiable Information (PII):</b> NIST in 800-122 outlines what is PII. It refers to any information that can be used to identify an individual. Pieces of information are full name, social security number, date and place of birth, mothers maiden name, biometric information, medical, educational, financial, and employment information. Protection of PII is a legal requirement in most cases, and crucial for keeping trust high and protecting privacy.
+
+<b>Physical Controls:</b> Security controls implemented to safeguard physical assets, resources, and IT infrastructure. Examples include walls, fences, locks, and some linked to technical and logical systems (badge readers). The controls are critical in an organization’s overall security strategy that help mitigate risks associated with unauthorized access, theft, vandalism and other physical threats. 
+
+<b>Privacy:</b> A fundamental right of an individual to keep their personal information, activities, and communications confidential and free from spying or interference. Individuals control the distribution of the information. The landscape of privacy is constantly changing because of the changes in technologies and the increasing digitization of information.
+
+<b>Probability:</b> The measure of the likelihood that a specific event will happen. In cybersecurity, probability is the likelihood that a threat is capable of exploiting a vulnerability.
+
+<b>Protected Health Information (PHI):</b> Is very similar to Protected Identifiable Information but for the healthcare sector. The identifiable information is related to an individual’s health status, medical conditions, healthcare services, and payment for healthcare services. PHI is very important to HIPAA (Health Insurance Portability and Accountability Act).
+
+<b>Principle of Least Privilege:</b> A foundational security concept that forces the minimum level of access to individuals, systems, and processes to perform tasks. The goal is to reduce the attack surface by restricting privileges across the board. Also known as Principle of Minimal Privilege or Least Authority.
+
+<b>Privileged Account:</b> An account with elevated access and permissions in a system, network, or application. Privileged accounts are typically admin accounts or are for special use. The management of the accounts are critical due to the potential security risks their access poses.
+
+<b>Patch:</b> A patch is a software update that is designed to improve and fix a program. Patches can be released on a regular schedule or to address a vulnerability. The software modifies the files and device settings connected to the vulnerability. The regularly installed patches help keep software secure, stable, and up to date with the latest improvements.
+
+<b>Patch Management:</b> Essential for maintaining system security, addressing vulnerabilities, and ensuring the stability and performance of applications. It involves planning, testing, deployment, patching, and security fixes across an organization's infrastructure. Patches are tested in a controlled development environment before deploying them on production servers.
+
+<b>Plaintext:</b> Readable and unencrypted form of data. The data could be a message that is in an unencrypted state, making it vulnerable to spying.
+
+<b>Packet:</b> The building blocks of network communication. The packet is the representation of data of the OSI model layer 3. The packets are structured data blocks that contain the actual data to be sent and the control data. Each packet has three parts: header, data, and trailer. The control data is stored in the headers and contains the source, destination, and clocking information for transmission synchronization. The trailer contains the Cyclic Redundancy Check (CRC) that verifies the contents.
+
 ## Q
+<b>Qualitative Risk Analysis:</b> A method that involves evaluating risks based on subjective judgements. It is used when there is a lack of precise quantifiable information available. The goal is to prioritize risks based on their impact and probability. It allows organizations to focus on managing the highest risks. The subjectivity is a limitation because it can introduce biases in risk assessments.
+
+<b>Quantitative Risk Analysis:</b> A method that involves evaluating risks based on numerical data, models, and techniques to quantify and analyze the impact of risks. Quantitative risk analysis provides a precise understanding of the outcomes and financial losses. Projects and situations that require numerical precision and detailed modeling often have a quantitative risk analysis conducted. There are advantages to the analysis. It can offer a precise understanding of the impact of the risks. It helps provide informed decisions by quantifying risks. The simulation of scenarios helps the cost benefit analysis and prioritization of actions that maximize benefits. There are limitations to this analysis. There must be enough data otherwise an analysis cannot be conducted. It can be resource intensive for complex projects and situations. It relies on assumptions so dynamic environments increase the complexity making analysis less precise.
+
+
+<!--
 ## R
 ## S
 ## T
