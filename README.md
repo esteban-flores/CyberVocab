@@ -254,9 +254,43 @@ Monitoring of incoming network traffic. The monitoring is important for a layere
 
 <b>Quantitative Risk Analysis:</b> A method that involves evaluating risks based on numerical data, models, and techniques to quantify and analyze the impact of risks. Quantitative risk analysis provides a precise understanding of the outcomes and financial losses. Projects and situations that require numerical precision and detailed modeling often have a quantitative risk analysis conducted. There are advantages to the analysis. It can offer a precise understanding of the impact of the risks. It helps provide informed decisions by quantifying risks. The simulation of scenarios helps the cost benefit analysis and prioritization of actions that maximize benefits. There are limitations to this analysis. There must be enough data otherwise an analysis cannot be conducted. It can be resource intensive for complex projects and situations. It relies on assumptions so dynamic environments increase the complexity making analysis less precise.
 
+## R
+<b>Risk:</b> In general, risk refers to a potential for loss, harm, or adverse consequences. Risk is very important for decision making and strategic planning. Risk has two components. Probability and impact. In cyber security, risk refers to the potential for unauthorized access, data breaches, cyber attacks.
+
+<b>Risk Acceptance:</b> A management strategy where an organization acknowledges the risk, understands the impact, and does not take any action to mitigate or transfer the risk. The determination of the benefits of the business function outweigh the risk and impact. 
+
+<b>Risk Assessment:</b> The process of identifying, evaluating, and prioritizing risks that may impact objectives. The overall goal for the risk assessment is to provide organizations with a better understanding of their risks. The assessments allow for more informed decisions to better allocate resources, create strategies, and navigate unknowns. The assessments allow for better organizational resiliency and performance.
+
+<b>Risk Avoidance:</b> Management strategy where an organization acts to eliminate risk(s) completely. The strategy is implemented when the impact or probability of a risk is too great to be offset by the benefits. The business function is avoided all together.
+
+<b>Risk Management:</b> Finds the right balance between risk mitigation, risk acceptance, risk transfer based on the organization. Risk management is the process of identifying, assessing, evaluating and controlling threats to minimize the potential impact and maximize opportunities. Risk management includes all the phases of risk context (or frame), risk assessment, risk treatment and risk monitoring. There are several steps in management. Risk identification helps with identification of risks that affect objectives. Risk assessment’s evaluate the impact of risks and prioritizes their significance. Risk mitigation and response will develop strategies to respond to risks by avoiding, transferring, accepting, or mitigating. Monitoring and reviewing will help to keep strategies flexible based on changes in situations. Communication of risks and strategies is important to stakeholders.
+
+<b>Risk Management Framework (RMF):</b> A structured process used by organizations to identify, assess, prioritize, and manage risks effectively. Ensures that risks are mitigated in a way that aligns with organizational objectives. There are many frameworks and the choice that an organization makes depends on its industry, objective, and regulatory requirements. Common risk management frameworks are: NIST Risk Management Framework, ISO 31000:2018, ISO 27001:2013, COSO Enterprise Risk Management, PMI Risk Management Framework.
+
+<b>Risk Mitigation:</b> The process of taking actions to minimize the probability and impact of risks. The overall goal is to proactively address identified risks and limit their impact on the organization. Mitigation is an ongoing process that requires fine tuning to effectively address risks. A few examples of mitigation are risk avoidance, risk reduction, risk transfer, and risk acceptance.
+
+<b>Risk Tolerance:</b> Refers to the level of risk that an organization is willing to accept for their objectives. It requires ongoing assessment, communication, and proactive approach to uncertainties. 
+
+<b>Risk Transference:</b> Refers to shifting and/or sharing the risk. The organization shifts the financial consequences of a risk to another. It’s done with contracts, insurance, or other financial means. The overall goal is to transfer the financial burden to another that is able to handle it better. Risk transference relies heavily on the other organization to be financially prepared for the risk.
+
+<b>Risk Treatment:</b> Involves the selection and implementation of strategies to address identified risks. The goal is to modify, mitigate, transfer, or accept risks that fits with the organization’s goal and risk tolerance.Treatment is an ongoing process that requires fine tuning and adaptation to changes with the organization's goals and circumstances.
+
+<b>Ransomware:</b> A type of malicious software designed to encrypt files, lock computer systems until ransom money is paid. The devices and systems are not accessible to users until a decryption key is provided. Cryptocurrency is demanded in many of the ransomware cases. These types of attacks have severe consequences and cause data loss, financial loss, and business operational disruptions. Ransomware is an ever-evolving threat that requires a comprehensive approach to mitigate the risks associated with ransomware attacks.
+
+<b>Role-based access control (RBAC):</b> A security model that governs access to systems and resources based on a role set by an organization's administrator. This simplifies the access management and enhances security by forcing individuals to only have necessary permissions to do their jobs.
+
+<b>Rule:</b> A security rule is an instruction that outlines how security controls should behave in an event. It will either allow or deny access to a system by comparing subjects to access control lists. For example, a firewall rule will dictate which network traffic is allowed or denied based on things like an IP address, port, and protocol.
+
+<b>Records:</b> Evidence of activities performed or results (reports). They help verify that an organization’s systems are working as intended. Depending on the context, records could also be units in a form (data fields).
+
+<b>Records Retention:</b> A systematic management of an organization’s documents and information. Policies and procedures will be established for the creation, storage, retrieval, preservation and disposal of records. Records will have a life cycle meaning that the organization will keep necessary information for an appropriate amount of time only before disposing of them. Retention and disposal ensures that organization’s only keep records for operational, legal, regulatory, or historical purposes. As the legal landscape evolves and laws change, records retention for organization’s will also adapt to stay compliant. 
+
+<b>Remanence:</b> Refers to residual information that remains after magnetization or deletion on a storage media. Data remanence is a significant risk. Magnetic romance is used on hard disk drives, magnetic tapes, and other magnetic sensors.
+
+<b>Request for change (RFC):</b> The first stage of change management. It is a formal document that is used to propose a change to a process, product, or project. The purpose of the RFC is to ensure that changes are well tested and do not impact operations in a negative way.
 
 <!--
-## R
+
 ## S
 ## T
 ## U
