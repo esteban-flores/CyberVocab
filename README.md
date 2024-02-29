@@ -227,27 +227,48 @@ Monitoring of incoming network traffic. The monitoring is important for a layere
 <b>Oversized Packet Attack:</b> In network security, oversized packets are associated with various issues, vulnerabilities, or attacks. A network packet that is larger than expected is sent and cannot be handled by the receiving system and it fails because of it.
 
 ## P
-<b>Personally Identifiable Information (PII):</b> NIST in 800-122 outlines what is PII. It refers to any information that can be used to identify an individual. Pieces of information are full name, social security number, date and place of birth, mothers maiden name, biometric information, medical, educational, financial, and employment information. Protection of PII is a legal requirement in most cases, and crucial for keeping trust high and protecting privacy.
-
-<b>Physical Controls:</b> Security controls implemented to safeguard physical assets, resources, and IT infrastructure. Examples include walls, fences, locks, and some linked to technical and logical systems (badge readers). The controls are critical in an organization’s overall security strategy that help mitigate risks associated with unauthorized access, theft, vandalism and other physical threats. 
-
-<b>Privacy:</b> A fundamental right of an individual to keep their personal information, activities, and communications confidential and free from spying or interference. Individuals control the distribution of the information. The landscape of privacy is constantly changing because of the changes in technologies and the increasing digitization of information.
-
-<b>Probability:</b> The measure of the likelihood that a specific event will happen. In cybersecurity, probability is the likelihood that a threat is capable of exploiting a vulnerability.
-
-<b>Protected Health Information (PHI):</b> Is very similar to Protected Identifiable Information but for the healthcare sector. The identifiable information is related to an individual’s health status, medical conditions, healthcare services, and payment for healthcare services. PHI is very important to HIPAA (Health Insurance Portability and Accountability Act).
-
-<b>Principle of Least Privilege:</b> A foundational security concept that forces the minimum level of access to individuals, systems, and processes to perform tasks. The goal is to reduce the attack surface by restricting privileges across the board. Also known as Principle of Minimal Privilege or Least Authority.
-
-<b>Privileged Account:</b> An account with elevated access and permissions in a system, network, or application. Privileged accounts are typically admin accounts or are for special use. The management of the accounts are critical due to the potential security risks their access poses.
+<b>Packet:</b> The building blocks of network communication. The packet is the representation of data of the OSI model layer 3. The packets are structured data blocks that contain the actual data to be sent and the control data. Each packet has three parts: header, data, and trailer. The control data is stored in the headers and contains the source, destination, and clocking information for transmission synchronization. The trailer contains the Cyclic Redundancy Check (CRC) that verifies the contents.
 
 <b>Patch:</b> A patch is a software update that is designed to improve and fix a program. Patches can be released on a regular schedule or to address a vulnerability. The software modifies the files and device settings connected to the vulnerability. The regularly installed patches help keep software secure, stable, and up to date with the latest improvements.
 
 <b>Patch Management:</b> Essential for maintaining system security, addressing vulnerabilities, and ensuring the stability and performance of applications. It involves planning, testing, deployment, patching, and security fixes across an organization's infrastructure. Patches are tested in a controlled development environment before deploying them on production servers.
 
+<b>Payload:</b> In cybersecurity, a payload refers to malware that performs a malicious action. 
+The primary action of a malicious code attack. The malicious code may cause damage, steal data, or grant unauthorized access.
+
+<b>Payment Card Industry Data Security Standard (PCI DSS):</b> A set of security standards designed to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment. The key components are: build and maintain a secure network, protect cardholder data, maintain a vulnerability management program, implement strong access control measures, regularly monitor and test networks, and maintain an information security policy. There are 4 levels of compliance. PCI DSS is crucial for protecting sensitive financial information and preventing unauthorized access to credit card data. It also helps reduce the risk of data breaches and financial losses associated with compromised cardholder information.
+
+<b>Personally Identifiable Information (PII):</b> NIST in 800-122 outlines what is PII. It refers to any information that can be used to identify an individual. Pieces of information are full name, social security number, date and place of birth, mothers maiden name, biometric information, medical, educational, financial, and employment information. Protection of PII is a legal requirement in most cases, and crucial for keeping trust high and protecting privacy.
+
+<b>Physical Controls:</b> Security controls implemented to safeguard physical assets, resources, and IT infrastructure. Examples include walls, fences, locks, and some linked to technical and logical systems (badge readers). The controls are critical in an organization’s overall security strategy that help mitigate risks associated with unauthorized access, theft, vandalism and other physical threats.
+
 <b>Plaintext:</b> Readable and unencrypted form of data. The data could be a message that is in an unencrypted state, making it vulnerable to spying.
 
-<b>Packet:</b> The building blocks of network communication. The packet is the representation of data of the OSI model layer 3. The packets are structured data blocks that contain the actual data to be sent and the control data. Each packet has three parts: header, data, and trailer. The control data is stored in the headers and contains the source, destination, and clocking information for transmission synchronization. The trailer contains the Cyclic Redundancy Check (CRC) that verifies the contents.
+<!--
+Platform as a Service (PaaS): The web-authoring or application development middleware environment that allows applications to be built in the cloud before they’re deployed as SaaS assets. 
+-->
+
+<b>Principle of Least Privilege:</b> A foundational security concept that forces the minimum level of access to individuals, systems, and processes to perform tasks. The goal is to reduce the attack surface by restricting privileges across the board. Also known as Principle of Minimal Privilege or Least Authority.
+
+<b>Privacy:</b> A fundamental right of an individual to keep their personal information, activities, and communications confidential and free from spying or interference. Individuals control the distribution of the information. The landscape of privacy is constantly changing because of the changes in technologies and the increasing digitization of information.
+
+<!--
+
+Private cloud: The phrase used to describe a cloud computing platform that is implemented within the corporate firewall, under the control of the IT department. A private cloud is designed to offer the same features and benefits of cloud systems, but removes a number of objections to the cloud computing model, including control over enterprise and customer data, worries about security, and issues connected to regulatory compliance. 
+
+-->
+
+<b>Privileged Account:</b> An account with elevated access and permissions in a system, network, or application. Privileged accounts are typically admin accounts or are for special use. The management of the accounts are critical due to the potential security risks their access poses.
+
+<b>Probability:</b> The measure of the likelihood that a specific event will happen. In cybersecurity, probability is the likelihood that a threat is capable of exploiting a vulnerability.
+
+<b>Protected Health Information (PHI):</b> Is very similar to Protected Identifiable Information but for the healthcare sector. The identifiable information is related to an individual’s health status, medical conditions, healthcare services, and payment for healthcare services. PHI is very important to HIPAA (Health Insurance Portability and Accountability Act).
+
+<!--
+Protocols: A set of rules (formats and procedures) to implement and control some type of association (that is, communication) between systems. NIST SP 800-82 Rev. 2
+
+Public cloud: The cloud infrastructure is provisioned for open use by the general public. It may be owned, managed, and operated by a business, academic, or government organization, or some combination of them. It exists on the premises of the cloud provider. NIST SP 800-145 
+-->
 
 ## Q
 <b>Qualitative Risk Analysis:</b> A method that involves evaluating risks based on subjective judgements. It is used when there is a lack of precise quantifiable information available. The goal is to prioritize risks based on their impact and probability. It allows organizations to focus on managing the highest risks. The subjectivity is a limitation because it can introduce biases in risk assessments.
@@ -255,6 +276,16 @@ Monitoring of incoming network traffic. The monitoring is important for a layere
 <b>Quantitative Risk Analysis:</b> A method that involves evaluating risks based on numerical data, models, and techniques to quantify and analyze the impact of risks. Quantitative risk analysis provides a precise understanding of the outcomes and financial losses. Projects and situations that require numerical precision and detailed modeling often have a quantitative risk analysis conducted. There are advantages to the analysis. It can offer a precise understanding of the impact of the risks. It helps provide informed decisions by quantifying risks. The simulation of scenarios helps the cost benefit analysis and prioritization of actions that maximize benefits. There are limitations to this analysis. There must be enough data otherwise an analysis cannot be conducted. It can be resource intensive for complex projects and situations. It relies on assumptions so dynamic environments increase the complexity making analysis less precise.
 
 ## R
+<b>Ransomware:</b> A type of malicious software designed to encrypt files, lock computer systems until ransom money is paid. The devices and systems are not accessible to users until a decryption key is provided. Cryptocurrency is demanded in many of the ransomware cases. These types of attacks have severe consequences and cause data loss, financial loss, and business operational disruptions. Ransomware is an ever-evolving threat that requires a comprehensive approach to mitigate the risks associated with ransomware attacks.
+
+<b>Records:</b> Evidence of activities performed or results (reports). They help verify that an organization’s systems are working as intended. Depending on the context, records could also be units in a form (data fields).
+
+<b>Records Retention:</b> A systematic management of an organization’s documents and information. Policies and procedures will be established for the creation, storage, retrieval, preservation and disposal of records. Records will have a life cycle meaning that the organization will keep necessary information for an appropriate amount of time only before disposing of them. Retention and disposal ensures that organization’s only keep records for operational, legal, regulatory, or historical purposes. As the legal landscape evolves and laws change, records retention for organization’s will also adapt to stay compliant. 
+
+<b>Remanence:</b> Refers to residual information that remains after magnetization or deletion on a storage media. Data remanence is a significant risk. Magnetic romance is used on hard disk drives, magnetic tapes, and other magnetic sensors.
+
+<b>Request for change (RFC):</b> The first stage of change management. It is a formal document that is used to propose a change to a process, product, or project. The purpose of the RFC is to ensure that changes are well tested and do not impact operations in a negative way.
+
 <b>Risk:</b> In general, risk refers to a potential for loss, harm, or adverse consequences. Risk is very important for decision making and strategic planning. Risk has two components. Probability and impact. In cyber security, risk refers to the potential for unauthorized access, data breaches, cyber attacks.
 
 <b>Risk Acceptance:</b> A management strategy where an organization acknowledges the risk, understands the impact, and does not take any action to mitigate or transfer the risk. The determination of the benefits of the business function outweigh the risk and impact. 
@@ -274,31 +305,82 @@ Monitoring of incoming network traffic. The monitoring is important for a layere
 <b>Risk Transference:</b> Refers to shifting and/or sharing the risk. The organization shifts the financial consequences of a risk to another. It’s done with contracts, insurance, or other financial means. The overall goal is to transfer the financial burden to another that is able to handle it better. Risk transference relies heavily on the other organization to be financially prepared for the risk.
 
 <b>Risk Treatment:</b> Involves the selection and implementation of strategies to address identified risks. The goal is to modify, mitigate, transfer, or accept risks that fits with the organization’s goal and risk tolerance.Treatment is an ongoing process that requires fine tuning and adaptation to changes with the organization's goals and circumstances.
-
-<b>Ransomware:</b> A type of malicious software designed to encrypt files, lock computer systems until ransom money is paid. The devices and systems are not accessible to users until a decryption key is provided. Cryptocurrency is demanded in many of the ransomware cases. These types of attacks have severe consequences and cause data loss, financial loss, and business operational disruptions. Ransomware is an ever-evolving threat that requires a comprehensive approach to mitigate the risks associated with ransomware attacks.
-
-<b>Role-based access control (RBAC):</b> A security model that governs access to systems and resources based on a role set by an organization's administrator. This simplifies the access management and enhances security by forcing individuals to only have necessary permissions to do their jobs.
+Role-based access control (RBAC):  A security model that governs access to systems and resources based on a role set by an organization's administrator. This simplifies the access management and enhances security by forcing individuals to only have necessary permissions to do their jobs.
 
 <b>Rule:</b> A security rule is an instruction that outlines how security controls should behave in an event. It will either allow or deny access to a system by comparing subjects to access control lists. For example, a firewall rule will dictate which network traffic is allowed or denied based on things like an IP address, port, and protocol.
 
-<b>Records:</b> Evidence of activities performed or results (reports). They help verify that an organization’s systems are working as intended. Depending on the context, records could also be units in a form (data fields).
+## S
+<b>Security Controls:</b> Measures to manage and mitigate risks, protect information, and ensure confidentiality, integrity, and availability of systems. Controls are critical for building a resilient cybersecurity posture. The controls can be categorized into many types based on purpose and functionality. There are preventive controls, detective controls, corrective controls, deterrent controls, compensating controls, directive controls, preemptive controls, and technical controls.
 
-<b>Records Retention:</b> A systematic management of an organization’s documents and information. Policies and procedures will be established for the creation, storage, retrieval, preservation and disposal of records. Records will have a life cycle meaning that the organization will keep necessary information for an appropriate amount of time only before disposing of them. Retention and disposal ensures that organization’s only keep records for operational, legal, regulatory, or historical purposes. As the legal landscape evolves and laws change, records retention for organization’s will also adapt to stay compliant. 
+<b>Security Governance:</b> All of the policies, roles, and processes the organization uses to manage, direct, and control the security. Security governance is critical for an organization’s overall security posture and should adapt to changing threats.
 
-<b>Remanence:</b> Refers to residual information that remains after magnetization or deletion on a storage media. Data remanence is a significant risk. Magnetic romance is used on hard disk drives, magnetic tapes, and other magnetic sensors.
+<b>Security Operations Center (SOC):</b> A central unit that is responsible for monitoring, detecting, responding, and mitigating threats before the organization experiences disruptions. A SOC can be internal or external (manage service provider). The overall goal of a SOC is to enhance the security posture by providing real time visibility into an IT environment. 
 
-<b>Request for change (RFC):</b> The first stage of change management. It is a formal document that is used to propose a change to a process, product, or project. The purpose of the RFC is to ensure that changes are well tested and do not impact operations in a negative way.
+<b>Segregation of Duties:</b> Also known as Separation of Duties. The goal is to establish check and balances within an organization to reduce the risk of fraud, errors, insider threats, and conflict of interest when one person has too much access and control. Segregation of duties is common in financial transactions, information systems, and internal controls. The segregation contributes to improved governance, risk management, and compliance.
+
+<b>Sensitivity:</b> A measure of the level of confidentiality and importance for data. The level of how sensitive information is will directly impact how much protection is required. Data such as financial records and Personally Identifiable Information (PII) directly impacts lives and is considered highly sensitive. Sensitivity also refers to security threats, vulnerabilities, and the need to safeguard data and systems.
+
+<b>Simple Mail Transport Protocol (SMTP):</b> Standard communication protocol used for email. It works with other protocols such as POP3 and IMAP to send and receive emails. Since SMTP is the backbone for communication between email servers it has evolved over time. Some evolutions were the addition of encryption and authentication because the confidentiality and integrity of emails are critical.
+
+<b>Single-Factor Authentication (SFA):</b> A security process where access is granted after presenting only one form of authentication. The three most used are something you know, something you have, and something you are. An example of Something you know is a username and password. Other authentications are fingerprint scans and smart cards. SFA is convenient but is considered less secure. It can be used in environments where the risk level is low. 
+
+<b>Social engineering:</b> A form of manipulation and deception used to exploit human psychology to gain unauthorized access to sensitive systems and resources. Social engineering attacks often exploit trust, authority, fear, or urgency to trick people into giving confidential information and performing actions that compromise security. Tactics that are common in this form of attack are email, phone, text, and social media.
+
+<b>Software:</b> A set of instructions, programs, or data that enable computers and devices to perform specific tasks. The most important component of modern systems because devices do not function without software. Software security is becoming more and more important because many systems have vulnerabilities that are now able to be exploited.
+
+<b>Software as a Service (SaaS):</b> A software model where applications are hosted by a third party and are accessible over the internet. The third party is a cloud provider and an example is Microsoft Azure. The customer does not manage any of the infrastructure such as the network, servers, operating system, or storage. Customers choose it because it is a cost-effective and scalable solution that does not need extensive infrastructure and maintenance. SaaS seems to be growing as the world is becoming increasingly more digital and connected.
+
+<b>Spoofing:</b> The purpose of spoofing is to gain unauthorized access, spread malware, or do other malicious activities. Information or identities are falsified to deceive systems, networks, or users. In many cases, faking the sending address of an email is used to gain entry into secure systems. Organizations need to stay vigilant, adopt security best practices to mitigate the impact of spoofing.
+
+<b>State:</b> The current condition or point of time of a system or program. A simple example would be that of a video game character. The state would have information such as location, health, and other attributes.
+
+<b>Subject:</b> An entity that accesses or attempts to access a resource. It could be an individual, process, or device. A common example would be the user attempting to log in acting as a subject.
+
+<b>Symmetric encryption:</b> A type of encryption where an algorithm uses the same key to encrypt and decrypt data. It is very fast but is more vulnerable than asymmetric encryption.
+
+<b>System Integrity:</b> The quality, reliability, and trustworthiness of a system, network, or software application. The system operates as it should when it doesn’t have anything altering it such as exploited vulnerabilities. Maintaining the CIA (Confidentiality, Integry, Availability) of data and preventing unauthorized access is critical for organizations and requires a comprehensive approach to security and availability.
+
+## T
+<b>Technical Controls:</b> Security measures implemented through technology to mitigate risks. There are many different controls based on their functions. Some common controls are firewalls, encryption, intrusion detection systems and intrusion prevention systems, malware protection, security information and event management (SIEM), network segmentation, and patches. These controls when implemented and maintained are critical to the overall security posture for an organization.
+
+<b>Threat:</b> Any potential danger or situation that can exploit vulnerabilities in a system. Can lead to unauthorized access, data breaches and disruption of business operations. Mitigating threats is important to ensure the confidentiality, integrity, and availability of information and resources. Mitigating threats is critical for organizations to ensure that they stay in business and compliant with the laws. Some common threats are malware, phishing, Dos and DDos, APTs, social engineering and insider threats.
+
+<b>Threat Actor:</b> Also known as a Malicious Actor and Adversary. They can be individuals, groups, organizations that seek to exploit vulnerabilities for malicious reasons. They could try to cause harm, gain unauthorized access, steal sensitive data, knock systems offline to disrupt operations. Understanding the tactics techniques and procedures (TTPs) is critical for organizations to mitigate threats by the implementation of cybersecurity strategies. New groups emerge and have different TTPs so constant monitoring for an organization is critical to stay secure.
+
+<b>Threat Vector:</b> The method used by a threat actor to exploit vulnerabilities. The vectors can be traditional methods and also sophisticated depending on the goals of the threat actors. Potential attack paths must be identified so that the best security controls can be implemented. Users are also important because if they are educated, they can avoid common threat vectors. Some common threat vectors are: email based threats, web based threats, network base, and social engineering.
+
+## U
+<b>Unix:</b> A powerful operating system originally developed by Bell Labs. It has played a significant role in the modern operating systems and used in software development. It is known for its stability, security features, and its support for many programming languages. Some security features are file permissions, user authentication, and access control mechanisms. Its support for networking protocols and utilities makes it a great choice in networked environments. Its popular variant is Linux. Linux and unix like systems are prevalent in the modern computing landscape. 
+
+<b>User Provisioning:</b> Critical in identity and access management. The process of managing and granting access rights and permissions to individuals. It involves creating, modifying, and deactivating user accounts. It ensures that users have the correct amount of access to resources to do their job. Properly managed access helps reduce security risks and maintain compliance with policies and regulations.
+
+## V
+<b>Vulnerability:</b> Refers to a weakness or flaw that can be exploited in order to compromise a system. Vulnerabilities exist in many forms and may lead to data breaches, service disruptions and other potential security incidents. There are four common types to pay attention to. Software vulnerabilities are in apps and operating systems. Network vulnerabilities are in network configurations and protocols. Physical vulnerabilities are weaknesses in physical security. Human vulnerabilities are social engineering and other human errors. Zero-Day vulnerabilities are critical because there are no patches available so they can be exploited by attackers up until a patch is released.
+
+<b>Virtual Local Area Network (VLAN):</b> Network segmentation technique that allows administrators to logically divide a physical network into logical groups of workstations, servers, and other devices into the same LAN no matter where they are located. VLANs operate on the second layer of the OSI model and are used for network security, scalability, and manageability. Each VLAN is logically isolated from other VLANs so they cannot communicate unless configured to do so. The isolation improves network security because sensitive devices can be moved to separate VLANs to mitigate breaches. They can be flexible and that is a major advantage in scalability. The broadcast traffic is kept to the VLAN itself so crosstalk is mitigated. The IEEE 802.1 Q standard is most used for VLAN tagging in the Ethernet frames. The tagging allows switches to be able to easily identify which VLAN the traffic belongs to.
+
+## W
+<b>Web Server:</b> A device that provides the fundamental World Wide Web (WWW) services on the Internet. Web servers can be used publicly and also internally. If used internally, it is known as an intranet server. It's a software application or hardware that stores, processes, and serves content (web pages, images, and videos). They work together with web browsers for the retrieval and display of web content.
+
+<b>Whaling Attack:</b> A type of cyber attack that specifically targets high-profile individuals in organizations. They can be executives, key decision makers, or highly influential individuals. The attack is sophisticated and aims to trick individuals into revealing sensitive information, credentials, financial details or authorizing financial transactions. Implementation of mitigation strategies helps organizations be more resilient against whaling attacks.
+
+<b>Wireless Local Area Network (WLAN):</b> A type of local area network that uses wireless communications like radio transmissions to connect devices within an area. Common areas are homes, offices, campus, and public hotspots. Since the communications are radio, the connections are flexible and more mobile. A Wi-Fi network is a WLAN.
+
+## X
+
+### Will add words
+
+## Y
+
+### Will add words
+
+## Z
+<b>Zero Day:</b> A vulnerability in software or system that is exploited by attackers before the software vendor is aware of it. The vulnerability goes without detection or prevention because it does not fit any recognized patterns, signatures, methods, or behaviors. There is no patch available so zero day means that it can be exploited on the same day that it is discovered. The risk associated with zero days is immense, so it is critical for businesses to continuously monitor, update systems, and follow best security practices.
+
+<b>Zero Trust:</b> A security concept and framework that assumes everything cannot be trusted and should always be verified. Implementing zero trust requires a combination of technologies, processes, and a gigantic shift in an organization's culture. Security is managed at each level and with the aim to enhance the overall security posture.
+
 
 <!--
-
-## S
-## T
-## U
-## V
-## W
-## X
-## Y
-## Z
 -->
 
 # If you made it to the end...Congratulations! Now, take a look at the Common Cybersecurity Concepts
